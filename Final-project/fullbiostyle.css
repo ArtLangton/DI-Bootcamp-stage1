@@ -2,6 +2,7 @@ html {
     height: 100%;
     overflow: hidden;
 }
+
 body {
     margin: 0;
     padding 0;
@@ -12,6 +13,7 @@ body {
     overflow-x: hidden;
     background-color: black;
 }
+
 header {
     box-sizing: border-box;
     min-height: 100vh;
@@ -21,7 +23,6 @@ header {
     transform-style: inherit;
     width: 100vw;
    color: white;
-    
 }
 header::before {
     content: '';
@@ -37,7 +38,6 @@ header::before {
     background-color: black;
     background-image: url('C:/Users/phant/Desktop/coding/DI-Bootcamp-stage1/Final-project/images/biobackground.jpg');
     transform: translateZ(-1px) scale(2);
-
 }
 
 head h1 {
