@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(90, 192, 255);
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid grey;
+ }
+
+nav{
+    display: block;
+    text-align: center;
+}
